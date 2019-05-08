@@ -13,3 +13,6 @@ sequelize
 
 
 module.exports = sequelize;
+
+
+//database is connected and running
